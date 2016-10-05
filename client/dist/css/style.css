@@ -1,0 +1,29 @@
+#row1
+{
+  margin-top: 40px;
+}
+#cont{
+  margin-top: 30px;
+}
+
+#home
+{
+  color:#FF5733;
+  background-color: #581845;
+}
+#movie{
+    margin-top: 30px;
+}
+body
+{
+  background-color: #212F3C;
+}
+.active
+{
+  color:#CCDD11;
+}
+.head
+{
+  align-content: center;
+  color:orange;
+}
